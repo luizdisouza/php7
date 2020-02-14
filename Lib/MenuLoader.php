@@ -1,6 +1,6 @@
 <?php
 
-	namespace Sil\Core;
+    namespace Sil\Core;
 
     use RecursiveDirectoryIterator;
     use RecursiveTreeIterator;
